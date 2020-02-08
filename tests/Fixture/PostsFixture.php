@@ -39,8 +39,8 @@ class PostsFixture extends TestFixture
                 'title' => 'Lorem ipsum dolor sit amet',
                 'full_text' => 'Lorem ipsum dolor sit amet, aliquet feugiat. Convallis morbi fringilla gravida, phasellus feugiat dapibus velit nunc, pulvinar eget sollicitudin venenatis cum nullam, vivamus ut a sed, mollitia lectus. Nulla vestibulum massa neque ut et, id hendrerit sit, feugiat in taciti enim proin nibh, tempor dignissim, rhoncus duis vestibulum nunc mattis convallis.',
                 'published' => 1,
-                'created' => 1581093397,
-                'modified' => 1581093397,
+                'created' => 1581173330,
+                'modified' => 1581173330,
             ],
         ];
         parent::init();
